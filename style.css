@@ -1,0 +1,39 @@
+.signin-box {
+    width: 400px;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px 0px rgb(255, 255, 255);
+}
+
+.signin-body {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+
+.signup-box{
+    width: 500px;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px 0px rgb(255, 255, 255);
+}
+.admin-body{
+    /* background-image: url("Resources/images/background.jpg"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.adminsignin-box{
+    width: 400px;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px 0px rgb(46, 46, 46);
+    /* background-color: white; */
+}
+.admin-Body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
